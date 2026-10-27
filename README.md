@@ -1,3 +1,4 @@
+# WanderWise_AI
 # WanderWise AI — Personalized Travel Itinerary Planner 🌍✈️
 
 [![Stack](https://img.shields.io/badge/Stack-React%2018%20%7C%20FastAPI%20%7C%20Supabase-00F0FF?style=for-the-badge)](https://github.com)
